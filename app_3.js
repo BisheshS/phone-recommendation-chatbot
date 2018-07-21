@@ -45,8 +45,8 @@ var bot = new builder.UniversalBot(connector, function (session, args) {
 // bot.set('storage', tableStorage);
 
 // Make sure you add code to validate these fields
-var luisAppId = "19e15fa4-d5e9-4055-9267-18544bb158fa";
-var luisAPIKey = "72356b52dac945e482fe2e69512e5695";
+var luisAppId = "your-app-id";
+var luisAPIKey = "your-api-key";
 var luisAPIHostName = process.env.LuisAPIHostName || 'westus.api.cognitive.microsoft.com';
 
 const LuisModelUrl = 'https://' + luisAPIHostName + '/luis/v2.0/apps/' + luisAppId + '?subscription-key=' + luisAPIKey;
