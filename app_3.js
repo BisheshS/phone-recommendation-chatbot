@@ -3,10 +3,6 @@ var builder = require('botbuilder');
 var botbuilder_azure = require("botbuilder-azure");
 require('dotenv-extended').load();
 
-
-// app-ID = 19e15fa4-d5e9-4055-9267-18544bb158fa
-// azure_key = 72356b52dac945e482fe2e69512e5695
-
 // Setup Restify Server
 var server = restify.createServer();
 server.listen(process.env.port || process.env.PORT || 3978, function () {
