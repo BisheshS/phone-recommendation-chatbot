@@ -1,0 +1,172 @@
+{
+ "main": [
+  {
+   "name": "OnePlus 5T (Midnight Black 6GB RAM + 64GB memory)",
+   "url": "https://www.amazon.in/OnePlus-Midnight-Black-64GB-memory/dp/B0756ZFXVB/ref=sr_1_1/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-1&refinements=p_72%3A1318476031",
+   "selection2": "4.6 out of 5 stars",
+   "selection4": "32,999",
+   "selection4_url": "https://www.amazon.in/OnePlus-Midnight-Black-64GB-memory/dp/B0756ZFXVB/ref=sr_1_1/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-1&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Redmi Y1 Lite (Gold,16GB)",
+   "url": "https://www.amazon.in/Redmi-Y1-Lite-Gold-16GB/dp/B0756RCV54/ref=sr_1_2/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-2&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "6,999",
+   "selection4_url": "https://www.amazon.in/Redmi-Y1-Lite-Gold-16GB/dp/B0756RCV54/ref=sr_1_2/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-2&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Honor 7X (Blue, 4GB RAM + 32GB memory)",
+   "url": "https://www.amazon.in/Honor-Blue-4GB-32GB-memory/dp/B0784BZ5VY/ref=sr_1_3/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-3&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "12,998",
+   "selection4_url": "https://www.amazon.in/Honor-Blue-4GB-32GB-memory/dp/B0784BZ5VY/ref=sr_1_3/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-3&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "OnePlus 5T (Midnight Black 8GB RAM + 128GB memory)",
+   "url": "https://www.amazon.in/OnePlus-Midnight-Black-128GB-memory/dp/B0757142K9/ref=sr_1_4/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-4&refinements=p_72%3A1318476031",
+   "selection2": "4.6 out of 5 stars",
+   "selection4": "37,999",
+   "selection4_url": "https://www.amazon.in/OnePlus-Midnight-Black-128GB-memory/dp/B0757142K9/ref=sr_1_4/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-4&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Galaxy A8+ (Black, 6GB RAM + 64GB Memory)",
+   "url": "https://www.amazon.in/Samsung-Galaxy-Black-64GB-Memory/dp/B0756ZBZ5P/ref=sr_1_5/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-5&refinements=p_72%3A1318476031",
+   "selection2": "4.3 out of 5 stars",
+   "selection4": "28,990",
+   "selection4_url": "https://www.amazon.in/Samsung-Galaxy-Black-64GB-Memory/dp/B0756ZBZ5P/ref=sr_1_5/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-5&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Redmi Note 4 (Black, 64GB)",
+   "url": "https://www.amazon.in/Redmi-Note-4-Black-64GB/dp/B077PWHMW4/ref=sr_1_6/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-6&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "10,999",
+   "selection4_url": "https://www.amazon.in/Redmi-Note-4-Black-64GB/dp/B077PWHMW4/ref=sr_1_6/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-6&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Redmi Y1 Lite (Grey,16GB)",
+   "url": "https://www.amazon.in/Redmi-Y1-Lite-Grey-16GB/dp/B0756RCTKL/ref=sr_1_7/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-7&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "6,999",
+   "selection4_url": "https://www.amazon.in/Redmi-Y1-Lite-Grey-16GB/dp/B0756RCTKL/ref=sr_1_7/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-7&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Honor 7X (Black, 4GB RAM + 32GB memory)",
+   "url": "https://www.amazon.in/Honor-Black-4GB-32GB-memory/dp/B077PT5Q4B/ref=sr_1_8/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-8&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "12,998",
+   "selection4_url": "https://www.amazon.in/Honor-Black-4GB-32GB-memory/dp/B077PT5Q4B/ref=sr_1_8/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-8&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Redmi Note 4 (Dark Grey, 64GB)",
+   "url": "https://www.amazon.in/Redmi-Note-Dark-Grey-64GB/dp/B078BN2H39/ref=sr_1_9/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-9&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "10,999",
+   "selection4_url": "https://www.amazon.in/Redmi-Note-Dark-Grey-64GB/dp/B078BN2H39/ref=sr_1_9/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-9&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung On5 Pro (Gold)",
+   "url": "https://www.amazon.in/Samsung-G-550FY-On5-Pro-Gold/dp/B01FM7GGFI/ref=sr_1_10/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-10&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "6,490",
+   "selection4_url": "https://www.amazon.in/Samsung-G-550FY-On5-Pro-Gold/dp/B01FM7GGFI/ref=sr_1_10/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-10&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Honor 7X (Blue, 4GB RAM + 64GB memory)",
+   "url": "https://www.amazon.in/Honor-Blue-4GB-64GB-memory/dp/B077PTT8SK/ref=sr_1_11/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-11&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "15,999",
+   "selection4_url": "https://www.amazon.in/Honor-Blue-4GB-64GB-memory/dp/B077PTT8SK/ref=sr_1_11/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-11&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung On5 Pro (Black)",
+   "url": "https://www.amazon.in/Samsung-G-550FY-On5-Pro-Black/dp/B01FM7GG58/ref=sr_1_12/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-12&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "6,490",
+   "selection4_url": "https://www.amazon.in/Samsung-G-550FY-On5-Pro-Black/dp/B01FM7GG58/ref=sr_1_12/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-12&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Nokia 216 (Black)",
+   "url": "https://www.amazon.in/Nokia-216-Black/dp/B01M69DXTB/ref=sr_1_13/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-13&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "2,330",
+   "selection4_url": "https://www.amazon.in/Nokia-216-Black/dp/B01M69DXTB/ref=sr_1_13/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-13&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Guru Music 2 SM-B310E (White)",
+   "url": "https://www.amazon.in/Samsung-Guru-Music-SM-B310E-White/dp/B00L5JVGFI/ref=sr_1_14/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-14&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "1,625",
+   "selection4_url": "https://www.amazon.in/Samsung-Guru-Music-SM-B310E-White/dp/B00L5JVGFI/ref=sr_1_14/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-14&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Honor 7X (Black, 4GB RAM + 64GB memory)",
+   "url": "https://www.amazon.in/Honor-Black-4GB-64GB-memory/dp/B077PTJT5Z/ref=sr_1_15/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-15&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "15,997",
+   "selection4_url": "https://www.amazon.in/Honor-Black-4GB-64GB-memory/dp/B077PTJT5Z/ref=sr_1_15/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-15&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Honor 7X (Gold, 4GB RAM + 32GB memory)",
+   "url": "https://www.amazon.in/Honor-Gold-4GB-32GB-memory/dp/B077PXTKSN/ref=sr_1_16/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-16&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "12,998",
+   "selection4_url": "https://www.amazon.in/Honor-Gold-4GB-32GB-memory/dp/B077PXTKSN/ref=sr_1_16/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-16&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Galaxy A8+ (Gold, 6GB RAM + 64GB Memory)",
+   "url": "https://www.amazon.in/Samsung-Galaxy-Gold-64GB-Memory/dp/B0756Z2XKH/ref=sr_1_17/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-17&refinements=p_72%3A1318476031",
+   "selection2": "4.3 out of 5 stars",
+   "selection4": "28,990",
+   "selection4_url": "https://www.amazon.in/Samsung-Galaxy-Gold-64GB-Memory/dp/B0756Z2XKH/ref=sr_1_17/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-17&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Mi Max 2 (Black, 64 GB)",
+   "url": "https://www.amazon.in/Mi-Max-Black-64-GB/dp/B073VLGL5Y/ref=sr_1_18/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-18&refinements=p_72%3A1318476031",
+   "selection2": "4.3 out of 5 stars",
+   "selection4": "15,999",
+   "selection4_url": "https://www.amazon.in/Mi-Max-Black-64-GB/dp/B073VLGL5Y/ref=sr_1_18/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-18&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Apple iPhone SE (Space Grey, 32GB)",
+   "url": "https://www.amazon.in/Apple-iPhone-SE-Space-Grey/dp/B071DF166C/ref=sr_1_19/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-19&refinements=p_72%3A1318476031",
+   "selection2": "4.2 out of 5 stars",
+   "selection4": "18,999",
+   "selection4_url": "https://www.amazon.in/Apple-iPhone-SE-Space-Grey/dp/B071DF166C/ref=sr_1_19/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-19&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Guru 1200 (GT-E1200, Indigo Blue)",
+   "url": "https://www.amazon.in/Samsung-Guru-1200-GT-E1200-Indigo/dp/B008OPT50Y/ref=sr_1_20/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-20&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "1,100",
+   "selection4_url": "https://www.amazon.in/Samsung-Guru-1200-GT-E1200-Indigo/dp/B008OPT50Y/ref=sr_1_20/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-20&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Guru 1200 GT-E1200ZKYINS - Black",
+   "url": "https://www.amazon.in/Samsung-Guru-1200-GT-E1200ZKYINS-Black/dp/B0079JZ4O2/ref=sr_1_21/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-21&refinements=p_72%3A1318476031",
+   "selection2": "4 out of 5 stars",
+   "selection4": "1,100",
+   "selection4_url": "https://www.amazon.in/Samsung-Guru-1200-GT-E1200ZKYINS-Black/dp/B0079JZ4O2/ref=sr_1_21/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-21&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Guru Music 2 (SM-B310E, Blue)",
+   "url": "https://www.amazon.in/Samsung-Guru-Music-SM-B310E-Blue/dp/B00OFRKT1Y/ref=sr_1_22/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-22&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "1,740",
+   "selection4_url": "https://www.amazon.in/Samsung-Guru-Music-SM-B310E-Blue/dp/B00OFRKT1Y/ref=sr_1_22/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-22&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Samsung Guru Music 2 (SM-B310E, Black)",
+   "url": "https://www.amazon.in/Samsung-Guru-Music-SM-B310E-Black/dp/B00KWDKL4K/ref=sr_1_23/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-23&refinements=p_72%3A1318476031",
+   "selection2": "4.1 out of 5 stars",
+   "selection4": "1,625",
+   "selection4_url": "https://www.amazon.in/Samsung-Guru-Music-SM-B310E-Black/dp/B00KWDKL4K/ref=sr_1_23/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-23&refinements=p_72%3A1318476031"
+  },
+  {
+   "name": "Apple iPhone SE (Rose Gold, 32GB)",
+   "url": "https://www.amazon.in/Apple-iPhone-SE-Rose-Gold/dp/B06ZXWWD6R/ref=sr_1_24/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-24&refinements=p_72%3A1318476031",
+   "selection2": "4.2 out of 5 stars",
+   "selection4": "18,999",
+   "selection4_url": "https://www.amazon.in/Apple-iPhone-SE-Rose-Gold/dp/B06ZXWWD6R/ref=sr_1_24/257-0000640-3384534?s=electronics&ie=UTF8&qid=1521839457&sr=1-24&refinements=p_72%3A1318476031"
+  }
+ ]
+}
